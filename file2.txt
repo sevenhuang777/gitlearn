@@ -1,2 +1,3 @@
 this is the file two for testing
 (*(void (*)())0)()
+changed
