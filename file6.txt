@@ -1,1 +1,2 @@
 This is the file 6
+i am adding something on person A.Person B need to take it from remote repository.
