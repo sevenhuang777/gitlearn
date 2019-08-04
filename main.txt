@@ -7,4 +7,5 @@ A add 100!
 B add 101!
 A add 102!
 B add 103!
-B add 104!
+B add 104 and fix 104!
+A add 105!
