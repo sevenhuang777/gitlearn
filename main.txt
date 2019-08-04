@@ -9,4 +9,4 @@ A add 102!
 B add 103!
 B add 104 and A fix 104, B perfect 104!
 A add 105!
-B add 106!
+B add 106 and A fix 106!
